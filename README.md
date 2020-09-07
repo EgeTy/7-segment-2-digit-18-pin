@@ -6,3 +6,5 @@ This little project is done to use in a movable airsoft target project that shou
 ![IMG_20200107_233034](https://user-images.githubusercontent.com/53571773/71927260-272fd600-31a6-11ea-9374-9d8bd2ba57cb.jpg)
 
 My test board is above. Actually I am not satisfied with the design because its the first pcb design that I did ever, at 25 December 2018 as writen on the board. But it did its job. I made place for two buttons, one for the counting hits which would be changed to a sensor(I was thinking on force sensor), and the other for reset.
+
+merhaba ensar kardeş
